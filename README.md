@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @3p1c-r
-- 👀 I’m interested in skateboarding
-- 🌱 I’m currently learning python  
+- 👋 Hi, I’m Aakash, a lead programmer for the First Robotics team 4015.
+- 👀 I’m interested in skateboarding and drumming
+- 🌱 I’m currently learning Python and Java, and I experiment with arduino sometimes
 - 😄 Pronouns: he/him
   
 
